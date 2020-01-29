@@ -8,13 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: 0853e05a87b19b74a94c00838711f97d
-  - enabled: 1
-    path: Assets/Scenes/BallGame.unity
-    guid: 254be16bc0017ed429db2fec7b6cfc4b
-  - enabled: 1
-    path: Assets/Scenes/End.unity
-    guid: a10b3c29f075edf4794e6e049e18466d
+    path: Assets/Scenes/roll-a-ball-2020.unity
+    guid: ce3361aa304f4784c800cfa5ac7f3ba0
   m_configObjects: {}
